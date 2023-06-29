@@ -2,6 +2,7 @@
 
 ## SSHGuard v0.1
 SSH登录动态白名单保护器
+SSH Login Dynamic Whitelist Protector
 
 **Auth:winger[gnusec]**
 
@@ -64,10 +65,15 @@ client.exe
 ```
 
 **Community discussion group**
+
 Discord:
+
 https://discord.gg/3WnegcP5TK
+
 WX:
+
 GNUSEC
+
 **License**
 
 SSHGuard is under the GPL-3.0 license. See the LICENSE file for details.
