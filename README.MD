@@ -1,10 +1,13 @@
 
 
 ## SSHGuard v0.1
-SSH登录动态白名单保护器
-SSH Login Dynamic Whitelist Protector
+>SSH登录动态白名单保护器
+
+>SSH Login Dynamic Whitelist Protector
 
 **Auth:winger[gnusec]**
+
+------
 
 ssh登录白名单保护. 使用google动态验证码认证.
 
@@ -13,6 +16,7 @@ SSH login whitelist protection. Utilizes Google Authenticator for dynamic verifi
 >使用cfg.ini自定义sccret和通讯加密密钥以及端口等相关配置.
 
 Customize your configuration in cfg.ini with secret, communication encryption key, port, and other related settings.
+
 
 1: 编译build
 Or use a pre-compiled version
